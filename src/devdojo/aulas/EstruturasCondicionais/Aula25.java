@@ -7,7 +7,7 @@ public class Aula25 {
         Scanner Rebeca = new Scanner(System.in);
         byte day;
         // char, int, byte, short, enum, String
- 
+
         System.out.println("Which a day: (1 - 7) ");
         day = Rebeca.nextByte();
 

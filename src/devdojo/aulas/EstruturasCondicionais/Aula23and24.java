@@ -2,7 +2,7 @@ package devdojo.aulas.EstruturasCondicionais;
 
 import java.util.Scanner;
 
-public class Aula23 {
+public class Aula23and24 {
     static void main(String[] args) {
         // PROBLEM: I wanna know how much i gotta pay taxes in the Netherlands based on my salary annual;
         // 0 - 34712 = 9,7% || 34713 - 68507 = 37.35%  || over 68507 = 49.5%
